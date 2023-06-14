@@ -21,7 +21,7 @@ function ProfileSippingAddress() {
         .then((response) => {
           setAddress(response?.data?.data)
         })
-      console.log(address.length)
+      console.log(address.length == 0)
     }
   }, [])
 
