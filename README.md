@@ -121,8 +121,8 @@ npm run build
     <td><img width="350px" src="./documentation/payment.png" border="0" alt="Detail Talent" /> </td>
   </tr>
    <tr>
-    <td>Checkout</td>
-    <td>Payment</td>
+    <td>Checkout Page</td>
+    <td>Payment Page</td>
 </table>
 
 # Related Project
